@@ -18,7 +18,7 @@ Clone or download this repository and run with a local server of open `index.htm
 - CSS
 
 ## Demo
-[Preview Here](https://capable-sunshine-5074a4.netlify.app/)
+[Preview Here](https://rawcdn.githack.com/PrimeFord/web-page/b68af78fb5e35935acd50d3c348e64b41fb6d01d/README.md)
 
 ![screenshot](/media/snip.png)
 ## Contact
