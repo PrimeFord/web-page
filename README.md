@@ -18,7 +18,7 @@ Clone or download this repository and run with a local server of open `index.htm
 - CSS
 
 ## Demo
-[Preview Here](https://rawcdn.githack.com/https:/raw.githubusercontent.com/PrimeFord/web-page/main/index.html)
+[Preview Here](https://rawcdn.githack.com/PrimeFord/web-page/main/index.html)
 
 ![screenshot](/media/snip.png)
 ## Contact
